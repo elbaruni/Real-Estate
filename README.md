@@ -25,6 +25,8 @@
 ## Transaction Hash
    - SolnSquareVerifier 0xc6aa7e4c8f4cfb5fedfb69b59c480966ea34786833bf6f268260e669afb48692
    - SquareVerifier     0xa52afd21ddaa06816a40676a381c081385a39e374fa1dd03ad457986c24591e4
+## OpenSea MarketPlace Link
+   https://rinkeby.opensea.io/category/realestateexchangebndv3
 ##   Token ID
    - 0
  
