@@ -1,5 +1,5 @@
 # Real Estate ERC721Token with Zokrates  verification integration
-	This is a udacity capstone graduation project 
+
 
  
    
