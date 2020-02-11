@@ -1,4 +1,5 @@
 # Real Estate ERC721Token with Zokrates  verification integration
+ For Real Estate implementation on Ethereum blockchain each ERC721 token   represents    ownership of real estate/property and claiming  ownership is verified using   zokrates as Zero-Knowledge Succinct Non-Interactive Argument of Knowledge implementation
 
 
  
